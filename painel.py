@@ -7,7 +7,7 @@ import re
 st.set_page_config(page_title="Dashboard Financeiro", page_icon="📊", layout="wide")
 
 # Título principal do Dashboard
-st.title("📊 Dashboard de Controle Financeiro Capela")
+st.title("📊 Dashboard de Controle Financeiro")
 st.markdown("Análise interativa dos lançamentos consolidados do Caixa, Banco Sicredi e Caixa Interno.")
 
 def limpar_descricao_para_ranking(texto):
