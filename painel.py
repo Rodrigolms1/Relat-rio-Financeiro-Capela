@@ -4,7 +4,7 @@ import plotly.express as px
 import re
 
 # Configuração da página do Streamlit para modo widescreen
-st.set_page_config(page_title="Dashboard Financeiro", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Dashboard Financeiro Capela", page_icon="📊", layout="wide")
 
 # Título principal do Dashboard
 st.title("📊 Dashboard de Controle Financeiro")
